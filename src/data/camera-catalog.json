@@ -1,0 +1,109 @@
+{
+  "catalogVersion": "1.0.0",
+  "updatedAt": "2026-03-04",
+  "sources": [
+    "Vendor camera specs",
+    "Independent camera reviews",
+    "Approximation normalized for web runtime"
+  ],
+  "models": [
+    {
+      "modelCode": "SM-S928B",
+      "family": "SM-S92",
+      "aliases": ["Galaxy S24 Ultra", "S24 Ultra"],
+      "brand": "Samsung",
+      "cameraProfiles": [
+        { "id": "rear-ultrawide", "lensType": "ultrawide", "fovH": 120, "fovV": 99, "toleranceDeg": 4, "source": "spec+review" },
+        { "id": "rear-wide", "lensType": "wide", "fovH": 79, "fovV": 63, "toleranceDeg": 3, "source": "spec+review" },
+        { "id": "rear-tele-3x", "lensType": "telephoto", "fovH": 36, "fovV": 27, "toleranceDeg": 5, "source": "spec+review" }
+      ]
+    },
+    {
+      "modelCode": "SM-S926B",
+      "family": "SM-S92",
+      "aliases": ["Galaxy S24+", "S24 Plus"],
+      "brand": "Samsung",
+      "cameraProfiles": [
+        { "id": "rear-ultrawide", "lensType": "ultrawide", "fovH": 120, "fovV": 99, "toleranceDeg": 4, "source": "spec+review" },
+        { "id": "rear-wide", "lensType": "wide", "fovH": 79, "fovV": 63, "toleranceDeg": 3, "source": "spec+review" },
+        { "id": "rear-tele-3x", "lensType": "telephoto", "fovH": 36, "fovV": 27, "toleranceDeg": 5, "source": "spec+review" }
+      ]
+    },
+    {
+      "modelCode": "SM-S921B",
+      "family": "SM-S92",
+      "aliases": ["Galaxy S24", "S24"],
+      "brand": "Samsung",
+      "cameraProfiles": [
+        { "id": "rear-ultrawide", "lensType": "ultrawide", "fovH": 120, "fovV": 99, "toleranceDeg": 4, "source": "spec+review" },
+        { "id": "rear-wide", "lensType": "wide", "fovH": 79, "fovV": 63, "toleranceDeg": 3, "source": "spec+review" },
+        { "id": "rear-tele-3x", "lensType": "telephoto", "fovH": 36, "fovV": 27, "toleranceDeg": 5, "source": "spec+review" }
+      ]
+    },
+    {
+      "modelCode": "SM-S918B",
+      "family": "SM-S91",
+      "aliases": ["Galaxy S23 Ultra", "S23 Ultra"],
+      "brand": "Samsung",
+      "cameraProfiles": [
+        { "id": "rear-ultrawide", "lensType": "ultrawide", "fovH": 120, "fovV": 99, "toleranceDeg": 4, "source": "spec+review" },
+        { "id": "rear-wide", "lensType": "wide", "fovH": 79, "fovV": 63, "toleranceDeg": 3, "source": "spec+review" },
+        { "id": "rear-tele-3x", "lensType": "telephoto", "fovH": 36, "fovV": 27, "toleranceDeg": 5, "source": "spec+review" }
+      ]
+    },
+    {
+      "modelCode": "GC3VE",
+      "family": "GC",
+      "aliases": ["Pixel 8 Pro"],
+      "brand": "Google",
+      "cameraProfiles": [
+        { "id": "rear-ultrawide", "lensType": "ultrawide", "fovH": 125, "fovV": 103, "toleranceDeg": 5, "source": "spec+review" },
+        { "id": "rear-wide", "lensType": "wide", "fovH": 82, "fovV": 65, "toleranceDeg": 4, "source": "spec+review" },
+        { "id": "rear-tele-5x", "lensType": "telephoto", "fovH": 25, "fovV": 19, "toleranceDeg": 6, "source": "spec+review" }
+      ]
+    },
+    {
+      "modelCode": "GEC77",
+      "family": "GE",
+      "aliases": ["Pixel 9 Pro", "Pixel 9 Pro XL"],
+      "brand": "Google",
+      "cameraProfiles": [
+        { "id": "rear-ultrawide", "lensType": "ultrawide", "fovH": 123, "fovV": 101, "toleranceDeg": 5, "source": "spec+review" },
+        { "id": "rear-wide", "lensType": "wide", "fovH": 82, "fovV": 65, "toleranceDeg": 4, "source": "spec+review" },
+        { "id": "rear-tele-5x", "lensType": "telephoto", "fovH": 25, "fovV": 19, "toleranceDeg": 6, "source": "spec+review" }
+      ]
+    },
+    {
+      "modelCode": "23127PN0CG",
+      "family": "23127",
+      "aliases": ["Xiaomi 14"],
+      "brand": "Xiaomi",
+      "cameraProfiles": [
+        { "id": "rear-ultrawide", "lensType": "ultrawide", "fovH": 117, "fovV": 96, "toleranceDeg": 5, "source": "spec+review" },
+        { "id": "rear-wide", "lensType": "wide", "fovH": 79, "fovV": 63, "toleranceDeg": 4, "source": "spec+review" },
+        { "id": "rear-tele", "lensType": "telephoto", "fovH": 33, "fovV": 25, "toleranceDeg": 6, "source": "spec+review" }
+      ]
+    },
+    {
+      "modelCode": "23117RK66C",
+      "family": "23117",
+      "aliases": ["Redmi Note 13 Pro+"],
+      "brand": "Xiaomi",
+      "cameraProfiles": [
+        { "id": "rear-ultrawide", "lensType": "ultrawide", "fovH": 118, "fovV": 98, "toleranceDeg": 6, "source": "spec+review" },
+        { "id": "rear-wide", "lensType": "wide", "fovH": 80, "fovV": 63, "toleranceDeg": 4, "source": "spec+review" }
+      ]
+    },
+    {
+      "modelCode": "CPH2583",
+      "family": "CPH25",
+      "aliases": ["OnePlus 12"],
+      "brand": "OnePlus",
+      "cameraProfiles": [
+        { "id": "rear-ultrawide", "lensType": "ultrawide", "fovH": 114, "fovV": 94, "toleranceDeg": 5, "source": "spec+review" },
+        { "id": "rear-wide", "lensType": "wide", "fovH": 78, "fovV": 62, "toleranceDeg": 4, "source": "spec+review" },
+        { "id": "rear-tele", "lensType": "telephoto", "fovH": 34, "fovV": 26, "toleranceDeg": 6, "source": "spec+review" }
+      ]
+    }
+  ]
+}
